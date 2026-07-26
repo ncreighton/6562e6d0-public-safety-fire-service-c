@@ -1,2 +1,42 @@
-# 6562e6d0-public-safety-fire-service-c
-Built for public safety professionals who are tired of wrestling with incompatible WordPress plugins that fight each other.  Compatible with all major WordPress themes and page builders. Regular security updates. Works with WordPress multisite.  ## What's Included  - Public Safety &amp; Fire Service Customer Testimonial And Review Display — fully confi
+# Public Safety & Fire Service Customer Testimonial and Review Display WordPress Plugin
+
+> Plugin for Public Safety
+
+Built for public safety professionals who are tired of wrestling with incompatible WordPress plugins that fight each other.
+
+Compatible with all major WordPress themes and page builders. Regular security updates.
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | ✅ | ✅ |
+| Basic settings | ✅ | ✅ |
+| Standard widgets | ✅ | ✅ |
+| Advanced features | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom post types | ❌ | ✅ |
+| API access | ❌ | ✅ |
+| White-label option | ❌ | ✅ |
+| Multisite support | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/8x2aEX7r1bUEaNO7jCd001E)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
